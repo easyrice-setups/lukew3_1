@@ -1,0 +1,4 @@
+[DEFAULT]
+window_manager = i3
+run_wm_command = i3
+
